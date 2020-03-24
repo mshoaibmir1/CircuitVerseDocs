@@ -21,8 +21,8 @@ Modify the BitWidth of the circuit element in the property menu.
 
 ## Other attributes
 
-You can change other attributes, like the number of inputs of an AndGate in the Property Menu.
-
+You can change other attributes, like the number of inputs of an And Gate in the Property Menu.
+  
 <iframe width="300px" height="200px" src="https://circuitverse.org/simulator/embed/735" id="projectPreview" scrolling="no" webkitAllowFullScreen mozAllowFullScreen allowFullScreen> </iframe>
 
 ## Label and Label Direction
